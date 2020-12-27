@@ -1,17 +1,17 @@
 /********************************************************************************/
-/***												                         ****/
-/* Description:-												                */
+/***									    ****/
+/* Description:-							      */
 /* This program will take number of persons and number of persons to be skipped */
 /* before killing next one as input and arrange all persons in circular fashion.*/
 /* Circular linked-list is used to arrange all persons in a circle FACING       */
 /* TOWARDS CENTRE.The persons will be standing in clock-wise. i.e.. 2 will stand*/
 /* left to 1. 3 will stand left to 2. 4 will stand left to 3 and so on...       */
 /* In output,program shows the order of execution as well as the number of links*/
-/* traversed in circular linked list before only one person remaining. 			*/
-/*																				*/
+/* traversed in circular linked list before only one person remaining. 	       */
+/*										*/
 /*Compiled and Executed in Dev c++ 5.11                                         */
 /*Programmer:- Stuti Priyambda                                                  */
-/*Roll No:- 204101055											                */
+/*								               */
 /********************************************************************************/
 
 #include<iostream>
